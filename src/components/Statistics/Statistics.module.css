@@ -1,0 +1,10 @@
+.list {
+  list-style: none;
+  width: 350px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}
